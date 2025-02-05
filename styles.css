@@ -24,7 +24,7 @@ nav ul {
 }
 
 nav ul li {
-    margin: 0;
+    margin: 0 10px;
 }
 
 nav ul li a {
@@ -41,7 +41,7 @@ nav ul li a:hover {
 h1 {
     text-align: center;
     font-size: 2.6em;
-    margin-top: 40px;
+    margin-top: 30px;
 }
 
 h2 {
@@ -55,12 +55,12 @@ h3 {
 }
 
 main {
-    margin-top: 40px;
+    margin-top: 30px;
     padding: 20px;
 }
 
 section {
-    margin-bottom: 30px;
+    margin-bottom: 15px;
     background: #fff;
     padding: 20px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
@@ -76,7 +76,7 @@ footer {
 
 footer h2 {
     color: #f8b400;
-    font-size: 1.5rem;
+    font-size: 20px;
     margin-bottom: 20px;
 }
 
@@ -96,7 +96,7 @@ footer article {
 
 footer h3 {
     color: #f8b400;
-    font-size: 1.2rem;
+    font-size: 16px;
     margin-bottom: 10px;
 }
 
@@ -106,13 +106,13 @@ footer ul {
 }
 
 footer ul li {
-    margin: 8px 0;
+    margin: 5px 0;
 }
 
 footer a {
     color: #f8b400;
     text-decoration: none;
-    font-weight: 600;
+    font-weight: bold;
     transition: color 0.3s ease-in-out;
 }
 
