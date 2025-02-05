@@ -22,6 +22,10 @@
                     <a href="menu.html">Menu</a>
                 </li>
                 <li>
+                    <a href="carte-vins.html">Carte des Vins et Boissons
+                    </a>
+                </li>
+                <li>
                     <a href="contact.html">Contact</a>
                 </li>
                 <li>
@@ -29,9 +33,6 @@
                 </li>
                 <li>
                     <a href="avis.html">Avis et Témoignages</a>
-                </li>
-                <li>
-                    <a href="carte-vins.html">Carte des Vins et Boissons</a>
                 </li>
                 <li>
                     <a href="recrutement.html">Recrutement</a>
