@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="fr">
-
 <head>
     <title>Accueil</title>
     <meta charset="utf-8"/>
@@ -9,12 +8,10 @@
     <link rel="stylesheet" href="styles.css"/>
     <link rel="icon" href="images/favicon.ico"/> 
 </head>
-
 <body>
     <header>
         <figure>
             <img src="images/logo.jpeg" alt="erreur dans l'affichage" id="logo"/>
-            <!--Alt : texte alternatif si erreur d'affichage-->
         </figure>
         <nav>
             <ul>
@@ -71,7 +68,6 @@
     <footer>
         <h2>Nous retrouver et soutenir :</h2>
         <section>
-
             <article>
                 <h3>Réseaux Sociaux :</h3>
                 <ul>
@@ -90,7 +86,5 @@
             </article>
         </section>
     </footer>
-
 </body>
-
 </html>
