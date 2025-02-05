@@ -3,17 +3,17 @@
 
 <head>
     <title>Accueil</title>
-    <meta charset="utf-8">
-    <meta name="author" content="Fariza FARADJI et Celine Boukersi">
-    <meta name="description" content="Le site web de notre restaurant">
-    <link rel="stylesheet" href="styles.css">
-    <link rel="icon" href="images/favicon.ico"> 
+    <meta charset="utf-8"/>
+    <meta name="author" content="Fariza FARADJI et Celine Boukersi"/>
+    <meta name="description" content="Le site web de notre restaurant"/>
+    <link rel="stylesheet" href="styles.css"/>
+    <link rel="icon" href="images/favicon.ico"/> 
 </head>
 
 <body>
     <header>
         <figure>
-            <img src="images/logo.jpeg" alt="erreur dans l'affichage" id="logo">
+            <img src="images/logo.jpeg" alt="erreur dans l'affichage" id="logo"/>
             <!--Alt : texte alternatif si erreur d'affichage-->
         </figure>
         <nav>
@@ -63,7 +63,7 @@
                 <li>Commande à emporter</li>
             </ul>
             <figure>
-                <img src="images/table.jpeg" alt="erreur chargement image">
+                <img src="images/table.jpeg" alt="erreur chargement image"/>
                 <figcaption>Figure 2: photo dans notre restaurant</figcaption>
             </figure>
         </section>
