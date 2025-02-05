@@ -27,6 +27,16 @@
                 <li>
                     <a href="reserv.html">Reservation</a>
                 </li>
+                <li>
+                    <a href="avis.html">Avis & Témoignages</a>
+                </li>
+                <li>
+                    <a href="carte-vins.html">Carte des Vins & Boissons</a>
+                </li>
+                <li>
+                    <a href="recrutement.html">Recrutement</a>
+                </li>
+
             </ul>
         </nav>
         <h1>Bienvenue à notre restaurant</h1>
