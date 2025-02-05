@@ -43,7 +43,7 @@
                 <li>Un service convivial et rapide.</li>
             </ol>
             <figure>
-                <img src="images/specialite.jpeg" alt="erreur chargement de l'image">
+                <img src="images/specialite.jpeg" alt="erreur chargement de l'image"/>
                 <figcaption>Figure 1 :image d'un repas d'un de nos client</figcaption>
             </figure>
         </section>
